@@ -134,7 +134,7 @@ Fast Pair protocol that allows:
         
         try:
             confirm = input(f"\n{self.COLOR['RED']}Type 'I ACCEPT RESPONSIBILITY' to continue: {self.COLOR['RESET']}").strip()
-            return confirm == "I ACCEPT FULL LEGAL RESPONSIBILITY"
+            return confirm == "I ACCEPT RESPONSIBILITY"
         except KeyboardInterrupt:
             return False
     
