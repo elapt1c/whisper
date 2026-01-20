@@ -156,3 +156,4 @@ exit
 5. **Report vulnerabilities responsibly** - Follow responsible disclosure practices
 6. **Respect privacy** - Do not capture or store personal audio without consent
 
+![image0(1)](https://github.com/user-attachments/assets/04697899-cb60-46cf-a355-5f07473d34eb)
