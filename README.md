@@ -1,4 +1,4 @@
-# WHISPER - Fast Pair Vulnerability Research Too
+# WHISPER - Fast Pair Vulnerability Research Tool
 
 ## SECURITY DISCLAIMER AND LEGAL WARNING
 
